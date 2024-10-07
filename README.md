@@ -1,0 +1,2 @@
+# ubuntu
+knowledge of ubuntu
